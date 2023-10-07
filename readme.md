@@ -1,10 +1,10 @@
-# WEB103 Project 3 - *Name of App Here*
+# WEB103 Project 3 - Virtual Community Space
 
-Submitted by: **Your name here**
+Submitted by: Zakariya Ahmed
 
-About this web app: **App description here**
+About this web app: A web application that is connected to a PostgreSQL database and fetches data requested by the user.
 
-Time spent: **X** hours
+Time spent: 2
 
 ## Required Features
 
@@ -12,9 +12,12 @@ The following **required** functionality is completed:
 
 <!-- Make sure to check off completed functionality below -->
 
-- [ ] **The web app uses React to display data from the API**
-- [ ] **The web app is connected to a PostgreSQL database, with an appropriately structured Events table**
+- [x] **The web app uses React to display data from the API**
+- [x] **The web app is connected to a PostgreSQL database, with an appropriately structured Events table**
   - [ ] **NOTE: Your GIF or a screenshot added to this README must include a view of your Railway database that shows the contents of the table used by your app**
+     <img width="866" alt="Screen Shot 2023-10-06 at 9 42 54 PM" src="https://github.com/Zakariya-1221/unearthed-3/assets/78823493/00da7ac3-ba1f-4abc-9c04-a87b855ec4c6">
+
+      
 - [ ] **The web app displays the title of the app**
 - [ ] **A visual interface allows the user to select a Location they would like to view**
 - [ ] **Clicking on a Location shows a list of all items from the Events table that corresponds to that Location**
