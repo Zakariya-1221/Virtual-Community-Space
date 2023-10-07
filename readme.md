@@ -1,67 +1,57 @@
-# Quick Start
+# WEB103 Project 3 - *Name of App Here*
 
-Clone this repo:
+Submitted by: **Your name here**
 
-```
-git clone git@github.com:fredngo/codepath-web103-fall-2023-lab-3-solution.git
-cd codepath-web103-fall-2023-lab-3-solution
-```
+About this web app: **App description here**
 
-## Install the Server
+Time spent: **X** hours
 
-```
-cd server
-npm install
-cd ..
-```
+## Required Features
 
-## Install the Client
+The following **required** functionality is completed:
 
-```
-cd client
-npm install
-```
+<!-- Make sure to check off completed functionality below -->
 
-### Build Assets
+- [ ] **The web app uses React to display data from the API**
+- [ ] **The web app is connected to a PostgreSQL database, with an appropriately structured Events table**
+  - [ ] **NOTE: Your GIF or a screenshot added to this README must include a view of your Railway database that shows the contents of the table used by your app**
+- [ ] **The web app displays the title of the app**
+- [ ] **A visual interface allows the user to select a Location they would like to view**
+- [ ] **Clicking on a Location shows a list of all items from the Events table that corresponds to that Location**
+- [ ] **Each Location detail page should have its own unique URL**
 
-```
-npm run build
-```
+The following **optional** features are implemented:
 
-## Run the Client
+- [ ] An additional page shows all possible `Events` that the user can sort and filter by `Location`
+- [ ] `Events` display a countdown showing the time remaining before that event and appears with different formatting when the event has passed
 
-In the same tab, since we're already in the `client` directory, launch the client:
+The following **additional** features are implemented:
 
-```
-npm run dev
-```
+- [ ] List anything else that you added to improve the site's functionality!
 
-## Run the Server
+## Video Walkthrough
 
-Open a *new tab*. Assuming that your terminal manager opens new tab at the same location:
+Here's a walkthrough of implemented required features:
 
-```
-cd ..
-cd server
-```
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Create an empty `.env` file:
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ...  GIF tool here
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
 
-```
-touch .env
-```
+## Notes
 
-Fill in `.env` with your database credentials (as discussed in class).
+Describe any challenges encountered while building the app or any additional context you'd like to add.
 
-Then:
+## License
 
-```
-npm start
-```
+Copyright [yyyy] [name of copyright owner]
 
-Keep both of these tabs open while you're working on the app.
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
-## Open the App in Browser
+> http://www.apache.org/licenses/LICENSE-2.0
 
-Navigate to `localhost:5173` to the the app running.
-
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
