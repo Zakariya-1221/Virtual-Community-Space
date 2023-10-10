@@ -4,7 +4,7 @@ Submitted by: Zakariya Ahmed
 
 About this web app: A web application that is connected to a PostgreSQL database and fetches data requested by the user.
 
-Time spent: 2
+Time spent: 6
 
 ## Required Features
 
@@ -14,14 +14,17 @@ The following **required** functionality is completed:
 
 - [x] **The web app uses React to display data from the API**
 - [x] **The web app is connected to a PostgreSQL database, with an appropriately structured Events table**
-  - [ ] **NOTE: Your GIF or a screenshot added to this README must include a view of your Railway database that shows the contents of the table used by your app**
-     <img width="866" alt="Screen Shot 2023-10-06 at 9 42 54 PM" src="https://github.com/Zakariya-1221/unearthed-3/assets/78823493/00da7ac3-ba1f-4abc-9c04-a87b855ec4c6">
+  - [x] **NOTE: Your GIF or a screenshot added to this README must include a view of your Railway database that shows the contents of the table used by your app**
+     
+      
+     <img width="747" alt="Screen Shot 2023-10-09 at 11 01 52 PM" src="https://github.com/Zakariya-1221/Virtual-Community-Space/assets/78823493/b327ae96-f9f5-4ff3-8fe9-dce7376d04a4">
+
 
       
-- [ ] **The web app displays the title of the app**
-- [ ] **A visual interface allows the user to select a Location they would like to view**
-- [ ] **Clicking on a Location shows a list of all items from the Events table that corresponds to that Location**
-- [ ] **Each Location detail page should have its own unique URL**
+- [x] **The web app displays the title of the app**
+- [x] **A visual interface allows the user to select a Location they would like to view**
+- [x] **Clicking on a Location shows a list of all items from the Events table that corresponds to that Location**
+- [x] **Each Location detail page should have its own unique URL**
 
 The following **optional** features are implemented:
 
@@ -30,16 +33,16 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you added to improve the site's functionality!
+- [] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  GIF tool here
+
+<!-- Replace this with whatever GIF tool you used! --> LiceCap
+GIF created with ...  GIF tool here LiceCap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -48,10 +51,11 @@ GIF created with ...  GIF tool here
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
+Had difficulty getting the get request to work.
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright [2023] [CodePath]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
