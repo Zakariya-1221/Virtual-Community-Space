@@ -51,6 +51,7 @@ GIF created with ...  GIF tool here LiceCap
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
+
 Had difficulty getting the get request to work.
 
 ## License
