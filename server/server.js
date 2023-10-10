@@ -1,19 +1,21 @@
 import express from 'express'
 import './config/dotenv.js'
-import cors from 'cors'
-import giftsRouter from './routes/gifts.js'
+
+import router from './config/routes.js'
+
+import setup from './db/setup.js'
+setup()
 
 const app = express()
 
-app.use(cors())
-
-app.use('/gifts', giftsRouter)
+app.use(express.json())
+app.use('/api', router)
 
 app.get('/', (req, res) => {
-  res.status(200).send('<h1 style="text-align: center; margin-top: 50px;">UnEarthed API</h1>')
+  res.send('<h1>Video Games API</h1>')
 })
 
-const PORT = process.env.PORT || 3001
+const PORT = process.env.PORT || 3000
     
 app.listen(PORT, () => {
   console.log(`🚀 Server listening on http://localhost:${PORT}`)

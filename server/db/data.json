@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "NBA Finals 2023",
+        "genre": "Denver Nuggets vs Miami Heat",
+        "platform": "Basketball",
+        "imageURL": "https://cdn.nba.com/manage/2023/06/23FINALS_Flourish_PREVIEW_HERO-1a-1568x1045.jpeg"
+    },
+    {
+        "id": 2,
+        "title": "Super Bowl 2023",
+        "genre": "Chiefs vs Eagles",
+        "platform": "Football",
+        "imageURL": "https://chiefswire.usatoday.com/wp-content/uploads/sites/70/2023/01/PHIvsKC_FB.png?w=1000&h=600&crop=1"
+    },
+    {
+        "id": 3,
+        "title": "Champions League 2023",
+        "genre": "Real Madrid vs Manchester City",
+        "platform": "Soccer",
+        "imageURL": "https://m.media-amazon.com/images/M/MV5BNDBmMzFmNTgtODQ3ZS00YzY2LWEzNjAtMWE2MmFiZjkxYzMyXkEyXkFqcGdeQXVyNjI2MDAwOTc@._V1_.jpg"
+    },
+    {
+        "id": 4,
+        "title": "FIFA World Cup 2022",
+        "genre": "International",
+        "platform": "Soccer",
+        "imageURL": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/12/1200/675/thumbnail_ARG-vs-FRA-WC-Final-2022-Sun-Dec-18.jpg?ve=1&tl=1"
+    },
+    {
+        "id": 5,
+        "title": "NCAA March Madness 2023",
+        "genre": "College Basketball",
+        "platform": "Basketball",
+        "imageURL": "https://www.si.com/.image/c_limit%2Ccs_srgb%2Cfl_progressive%2Ch_1200%2Cq_auto:good%2Cw_1200/MTk2NDg1ODIzMjEyODI0MDUw/march-madness-logo.jpg"
+    },
+    {
+        "id": 6,
+        "title": "UEFA Euro 2023",
+        "genre": "European Final",
+        "platform": "Soccer",
+        "imageURL": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt2bb3d1b9e2ba10f1/6491c684e16589e76ad71def/Euro_U21.jpg?auto=webp&format=pjpg&width=3840&quality=60"
+    },
+   
+    {
+        "id": 8,
+        "title": "NFL Playoffs 2023",
+        "genre": "Playoff Game",
+        "platform": "Football",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwz7NR5pvEaO8vzKXBMTw1PKzQ8zHjdt934Q&usqp=CAU"
+    }
+]
